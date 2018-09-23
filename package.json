@@ -1,0 +1,14 @@
+{
+  "name": "s3-lambda-sns-sqs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sqs-client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric London <github@ericlondon.com>",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.320.0"
+  }
+}

@@ -1,0 +1,4 @@
+.terraform/
+*.csv
+*.zip
+node_modules/
