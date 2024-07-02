@@ -9,6 +9,6 @@
   "author": "Eric London <github@ericlondon.com>",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.1651.0"
+    "aws-sdk": "^2.1653.0"
   }
 }
